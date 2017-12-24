@@ -1,0 +1,31 @@
+table{
+	background-color: #61E3EF;
+}
+.txt:focus{
+	background-color: yellow;
+	color: red;
+}
+.txt{
+	background-color: #AFECE7;
+}
+#tb1{
+	margin-bottom: 500px;
+}
+#tombol{
+	margin: 50px 10px 50px 10px;
+}
+#kirim{
+	/*background-color: red;*/
+}
+#kirim:hover{
+	background-color: green;
+	color: #F9EB12;
+}
+select{
+	margin-top: 10px;
+
+}
+select:hover{
+	background-color: red;
+
+}

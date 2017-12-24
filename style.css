@@ -1,0 +1,19 @@
+#pertama{
+	font-size: 72px;
+	float:left;
+	margin: 5px 10px 0px 0px;
+	line-height: 50px;
+
+}
+#text_panjang{
+
+	text-align: justify;
+}
+img{
+	float: right;
+	margin: 5px 0px 10px 15px;
+}
+#back{
+	background-color: #1FECB0;
+
+}
